@@ -90,4 +90,9 @@
         transform: rotate(45deg);
         top: 8px;
     }
+
+    footer .social-icon {
+        display: grid;
+        column-gap: 50px;;
+    }
 }
